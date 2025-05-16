@@ -19,3 +19,6 @@ git clone chave_https . por ex (tem que colocar o ponto no final), serve para cl
 git rm nome_arquivo para deletar arquivo do git.
 
 git log serve para vermos nossos commit anteriores.
+
+git mv serve como recortar do win (ctrl + x).
+
