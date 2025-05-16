@@ -12,3 +12,7 @@ git commit nome_arquivo -m "mensagem", serve para commitar 1 arquivo.
 git commit -a -m "mensagem" serve para adicionar arquivos trackeados e commitar.
 git commit -m "mensagem" serve para commitar tudo que foi adicionado pelo git add.
 
+git pull traz mudanças ou novos arquivos que foram inseridos no projeto no github.
+
+git clone chave_https . por ex (tem que colocar o ponto no final), serve para clonar repositório do github para nossa máquina.
+
