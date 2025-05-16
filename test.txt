@@ -1,4 +1,14 @@
 Teste repo
-git remote -v serve para verificar/ver origin
-git remote rm origin serve para remover a origin
-git status serve para ver se tem modificações em arquivos trackeados e se tem arquivos a serem trackeados(git add...)
+git remote -v serve para verificar/ver origin.
+
+git remote rm origin serve para remover a origin.
+
+git status serve para ver se tem modificações em arquivos trackeados e se tem arquivos a serem trackeados(git add...).
+
+git add serve para o git começar a trackear arquivos, 
+funciona com o nome de apenas 1 arquivo ou com ponto(.), para adicionar todos arquivos de uma vez.
+
+git commit nome_arquivo -m "mensagem", serve para commitar 1 arquivo.
+git commit -a -m "mensagem" serve para adicionar arquivos trackeados e commitar.
+git commit -m "mensagem" serve para commitar tudo que foi adicionado pelo git add.
+
