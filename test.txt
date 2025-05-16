@@ -1,3 +1,4 @@
 Teste repo
 git remote -v serve para verificar/ver origin
 git remote rm origin serve para remover a origin
+git status serve para ver se tem modificações em arquivos trackeados e se tem arquivos a serem trackeados(git add...)
