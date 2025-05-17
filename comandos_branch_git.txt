@@ -1,2 +1,8 @@
 git branch serve para ver as branches(ramificações) que temos.
 git branch nome_branch cria uma branch nova. OBS: Boa prática é criar 1 branch a partir da main.
+
+git branch -d/--delete nome_branch serve para deletar aquele branch.
+
+git  checkout nome_branch serve para trocar para o branch desejado.
+git  checkout -b nome_branch serve para criar um branch e trocar para ele. OBS: Boa prática é criar 1 branch a partir da main.
+
