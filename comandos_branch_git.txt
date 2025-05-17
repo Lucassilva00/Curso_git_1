@@ -1,0 +1,2 @@
+git branch serve para ver as branches(ramificações) que temos.
+git branch nome_branch cria uma branch nova. OBS: Boa prática é criar 1 branch a partir da main.

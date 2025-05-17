@@ -25,4 +25,3 @@ git mv arquivo pasta_destino/arquivo serve como recortar do win (ctrl + x) e tam
 git checkout pasta/arquivo remove as mudanças feitas sendo trackeadas
 
 git reset --hard origin/main reseta os arquivos para o push anterior.
-
