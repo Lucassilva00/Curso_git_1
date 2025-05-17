@@ -1,7 +1,8 @@
-Teste repo
 git remote -v serve para verificar/ver origin.
-
 git remote rm origin serve para remover a origin.
+
+git remote add origin link_repositório . serve para adicionar origin ao nosso ambiente em
+caso de mudanças por ex. github para gitbucket.
 
 git status serve para ver se tem modificações em arquivos trackeados e se tem arquivos a serem trackeados(git add...).
 
