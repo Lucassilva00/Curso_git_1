@@ -11,4 +11,6 @@ git push --recurse-submodules=on-demand serve para fazer o push de um arquivo cr
 
 git diff serve para ver difenças entre arquivos, branches, etc.
 ex. git diff <arquivo_A> <arquivo_B>
-apenas git diff serve para mostrar difença entre o branch que estamos e o branch main por ex.
+git diff main serve para mostrar difença entre o branch que estamos e o branch main por ex.
+
+git shortlog mostra logs anteriores resumidos e quem commitou.
