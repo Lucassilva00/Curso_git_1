@@ -8,3 +8,16 @@ git  checkout -b nome_branch serve para criar um branch e trocar para ele. OBS: 
 
 git merge nome_branch serve para unir branches.
 
+git stash geralmente usado em uma branch diferente da main e serve para mover tudo 
+que foi feito a partir da criação daquele branch e não foi commitado
+para alguma "lixeira" e resetar o branch.
+
+git stash list mostra nossas "stash's".
+git stash show -p Nº da stash na lista, mostra oque foi alterado nesta stash escolhida.
+git stash apply Nº da stash na lista, resgata a stash e aplica as modificações presente naquela stash.
+
+git stash drop Nº da stash na lista, serve para apagar aquela stash escolhida.
+git stash clear, serve para apagar todas as stash's.
+
+git tag -a nome_da_tag -m "mensagem da tag."
+git tag serve para ver as tags criadas.
