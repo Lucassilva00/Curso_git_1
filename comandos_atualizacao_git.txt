@@ -15,7 +15,7 @@ git diff main serve para mostrar difença entre o branch que estamos e o branch 
 
 git shortlog mostra logs anteriores resumidos e quem commitou.
 
-git clean serve para remover arquivos untracked (não trackeados).
+git clean -f(-f serve para forçar o clean) serve para remover arquivos untracked (não trackeados).
 
 git gc serve para otimizar o repositório, limpando arquivos desnecessários.
 
