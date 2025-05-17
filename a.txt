@@ -4,3 +4,7 @@ com arquivo modificado
 Enviando a 
 Funcionalidade
 X
+
+Enviando
+Funcionalidade
+B
