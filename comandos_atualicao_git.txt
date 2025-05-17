@@ -7,4 +7,6 @@ git submodule mostra lista de submodulos naquele projeto.
 git submodule add link_repositório .(se quiser salvar na raíz do projeto) ou 
 nome_da_pasta(quando quer colocar este novo repositório em uma pasta separada.)
 
+git push --recurse-submodules=on-demand serve para fazer o push de um arquivo criado no nosso submodulo.
+
 
