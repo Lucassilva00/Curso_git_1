@@ -19,5 +19,11 @@ git stash apply Nº da stash na lista, resgata a stash e aplica as modificaçõe
 git stash drop Nº da stash na lista, serve para apagar aquela stash escolhida.
 git stash clear, serve para apagar todas as stash's.
 
-git tag -a nome_da_tag -m "mensagem da tag."
-git tag serve para ver as tags criadas.
+git tag -a nome_da_tag -m "mensagem da tag. FAZER COMMIT DA TAG, MAS NÃO FAZER PUSH.
+git tag serve para ver as tags criadas. FAZER COMMIT DA TAG, MAS NÃO FAZER PUSH.
+
+git show nome_da_tag serve para mostar alterações feitas na tag.
+git checkout nome_da_tag serve para entrar naquela tag.
+
+git push origin nome_da_tag envia apenas a tag escolhida.
+git push origin --tags envia todas as tags.
