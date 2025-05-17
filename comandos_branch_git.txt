@@ -27,3 +27,6 @@ git checkout nome_da_tag serve para entrar naquela tag.
 
 git push origin nome_da_tag envia apenas a tag escolhida.
 git push origin --tags envia todas as tags.
+
+git fetch -a serve para ver outro branch criado por outro dev por ex. mas sem adiciona-lo ao seu ambiente
+mas se der git checkout nome_branch_outro_dev esse branch passa para o seu ambiente.
