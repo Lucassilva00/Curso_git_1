@@ -14,3 +14,16 @@ ex. git diff <arquivo_A> <arquivo_B>
 git diff main serve para mostrar difença entre o branch que estamos e o branch main por ex.
 
 git shortlog mostra logs anteriores resumidos e quem commitou.
+
+git clean serve para remover arquivos untracked (não trackeados).
+
+git gc serve para otimizar o repositório, limpando arquivos desnecessários.
+
+git fsck serve para verificar integridade dos arquivos.
+
+git reflog mais completo que o git log, pois ele salva até mudanças de branch.
+é gerado um "id" ao lado de cada log e com ele podemos voltar para aquela versão com
+git reset --hard id_informado.
+
+git archive --format zip --output main_files.zip main serve para gerar um arquivo zip
+a partir da main. 
