@@ -4,4 +4,10 @@ Conteúdo *presente* no curso de **git** udemy
 
 ## Funçoes exemplos
 
-checkout, Tela de produto, Catálogo
+_checkout, **Tela de produto**, Catálogo_
+
+**checkout, _Tela de produto_, Catálogo**
+
+###### Melhorias projeto:
+
+_Melhoria 1_, **Melhoria 2**
