@@ -1,6 +1,6 @@
 # Curso git
 
-Conteúdo presente no curso de git udemy
+Conteúdo *presente* no curso de **git** udemy
 
 ## Funçoes exemplos
 
