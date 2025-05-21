@@ -49,3 +49,12 @@ _Melhoria 1_, **Melhoria 2**
 Contribuidor principal: https://github.com/Lucassilva00
 
 [![logo github para acesso ao perfil do contribuidor](img/GitHub_Logo.png)](https://github.com/Lucassilva00)
+
+
+## Código da função soma
+
+'''javascript
+function soma(a, b){
+    return a + b;
+}
+'''
