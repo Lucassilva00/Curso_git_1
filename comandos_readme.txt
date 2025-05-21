@@ -25,5 +25,5 @@ código
 
 Lista de tarefas:
 concluidas: - [x] nome_tarefa
-não-concluidas: - [] nome_tarefa
+não-concluidas: - [ ] nome_tarefa obs: tarefas não concluidas precisam de um space no meio dos colchetes.
 obs: excclusiva do markdown do github.
