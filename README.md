@@ -45,3 +45,5 @@ _Melhoria 1_, **Melhoria 2**
 ## links interessantes:
 
 [Google](https://www.google.com/?hl=pt-BR)
+
+Contribuidor principal: https://github.com/Lucassilva00
