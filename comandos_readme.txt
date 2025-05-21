@@ -23,3 +23,7 @@ Adicionar código ao readme. obs: Não é aspas simples
 código
 ```
 
+Lista de tarefas:
+concluidas: - [x] nome_tarefa
+não-concluidas: - [] nome_tarefa
+obs: excclusiva do markdown do github.
