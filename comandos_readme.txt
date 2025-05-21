@@ -18,8 +18,8 @@ OBS.: se for link do github pode inserir diretamente sem colchetes ou parenteses
 
 [![desc img](caminho_da_imagem/link_da_imagem)](link)
 
-Adicionar código ao readme
-'''linguagem_usada
+Adicionar código ao readme. obs: Não é aspas simples
+```linguagem_usada
 código
-'''
+```
 
