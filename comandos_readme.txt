@@ -14,4 +14,7 @@ adicionar uma imagem localmente ou externa:
 adicionar links ao projeto:
 [Texto do link](link)
 OBS.: se for link do github pode inserir diretamente sem colchetes ou parenteses
+é possível fazer uma juncão entre link na img
+
+[![desc img](caminho_da_imagem/link_da_imagem)](link)
 

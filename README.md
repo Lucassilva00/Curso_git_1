@@ -47,3 +47,5 @@ _Melhoria 1_, **Melhoria 2**
 [Google](https://www.google.com/?hl=pt-BR)
 
 Contribuidor principal: https://github.com/Lucassilva00
+
+[![logo github para acesso ao perfil do contribuidor](img/GitHub_Logo.png)](https://github.com/Lucassilva00)
