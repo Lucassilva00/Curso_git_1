@@ -36,3 +36,7 @@ _Melhoria 1_, **Melhoria 2**
 #### Imagem local
 
 ![Logo Python](img/Python-logo.png)
+
+#### Imagem Externa
+
+![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)

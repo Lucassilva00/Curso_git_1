@@ -8,6 +8,6 @@ lista om ordenação = 1. item
 ex: 1. item
         1. sub_item
 
-adicionar uma imagem localmente:
-[(desc da img)alt da imagem](caminho_da_imagem)
+adicionar uma imagem localmente ou externa:
+![(desc da img)alt da imagem](caminho_da_imagem/link_da_imagem)
 
