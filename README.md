@@ -16,6 +16,8 @@ _Melhoria 1_, **Melhoria 2**
 ### Linguagens do Projeto:
 
 * HTML
+    * Versão x.x
+    * Ano XXXX
 * CSS
 * JavaScript
 * PHP
