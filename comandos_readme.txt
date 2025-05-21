@@ -6,4 +6,8 @@ lista sem ordenação = * item
 lista om ordenação = 1. item
 É possível fazer sublista nas lista, apenas colocando a sublista identada na lista
 ex: 1. item
-        1. subitem
+        1. sub_item
+
+adicionar uma imagem localmente:
+[(desc da img)alt da imagem](caminho_da_imagem)
+
